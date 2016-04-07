@@ -1,5 +1,11 @@
 # mongooseconfig-example
 
+## mongooseconfig
+
+是mongoose连接数据库的便利模块
+
+https://github.com/i5ting/mongooseconfig
+
 ## 测试本地mongooseconfig是否生成config
 
 ```
