@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "test": "npm i ../mongooseconfig"
+    "test": "rm -rf config && npm i ../mongooseconfig"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
