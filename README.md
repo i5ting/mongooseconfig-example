@@ -1,6 +1,6 @@
 # mongooseconfig-example
 
-目前测试有问题
+目前测试有问题，不推荐使用
 
 ## mongooseconfig
 
