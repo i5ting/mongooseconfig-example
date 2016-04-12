@@ -1,5 +1,7 @@
 # mongooseconfig-example
 
+目前测试有问题
+
 ## mongooseconfig
 
 是mongoose连接数据库的便利模块
@@ -21,3 +23,4 @@ npm start
 ```
 
 然后ctrl + c中断
+
